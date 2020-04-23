@@ -363,6 +363,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 0
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 0
     }
   ],
   "Guam": [
@@ -728,6 +732,10 @@
     },
     {
       "date": "2020-4-21",
+      "confirmed": 136
+    },
+    {
+      "date": "2020-4-22",
       "confirmed": 136
     }
   ],
@@ -1095,6 +1103,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 14
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 14
     }
   ],
   "Puerto Rico": [
@@ -1461,6 +1473,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 1298
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 1252
     }
   ],
   "Virgin Islands": [
@@ -1827,6 +1843,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 53
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 54
     }
   ],
   "Alabama": [
@@ -2193,6 +2213,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 5317
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 5593
     }
   ],
   "Alaska": [
@@ -2559,6 +2583,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 329
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 335
     }
   ],
   "Arizona": [
@@ -2925,6 +2953,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 5256
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 5473
     }
   ],
   "Arkansas": [
@@ -3291,6 +3323,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 1990
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 2276
     }
   ],
   "California": [
@@ -3657,6 +3693,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 35465
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 37344
     }
   ],
   "Colorado": [
@@ -4023,6 +4063,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 10473
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 10891
     }
   ],
   "Connecticut": [
@@ -4389,6 +4433,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 20360
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 22469
     }
   ],
   "Delaware": [
@@ -4755,6 +4803,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 2931
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 3200
     }
   ],
   "District of Columbia": [
@@ -5121,6 +5173,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 3098
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 3206
     }
   ],
   "Florida": [
@@ -5487,6 +5543,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 27869
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 28309
     }
   ],
   "Georgia": [
@@ -5853,6 +5913,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 19881
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 21214
     }
   ],
   "Hawaii": [
@@ -6219,6 +6283,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 586
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 592
     }
   ],
   "Idaho": [
@@ -6585,6 +6653,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 1736
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 1766
     }
   ],
   "Illinois": [
@@ -6951,6 +7023,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 33059
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 35107
     }
   ],
   "Indiana": [
@@ -7317,6 +7393,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 12097
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 12438
     }
   ],
   "Iowa": [
@@ -7683,6 +7763,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 3641
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 3748
     }
   ],
   "Kansas": [
@@ -8049,6 +8133,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 2164
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 2331
     }
   ],
   "Kentucky": [
@@ -8415,6 +8503,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 3204
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 3378
     }
   ],
   "Louisiana": [
@@ -8781,6 +8873,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 24854
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 25258
     }
   ],
   "Maine": [
@@ -9147,6 +9243,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 888
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 907
     }
   ],
   "Maryland": [
@@ -9513,6 +9613,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 14193
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 14775
     }
   ],
   "Massachusetts": [
@@ -9879,6 +9983,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 41199
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 42944
     }
   ],
   "Michigan": [
@@ -10245,6 +10353,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 32667
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 33966
     }
   ],
   "Minnesota": [
@@ -10611,6 +10723,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 2567
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 2722
     }
   ],
   "Mississippi": [
@@ -10977,6 +11093,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 4716
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 4894
     }
   ],
   "Missouri": [
@@ -11343,6 +11463,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 6066
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 6277
     }
   ],
   "Montana": [
@@ -11709,6 +11833,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 437
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 439
     }
   ],
   "Nebraska": [
@@ -12075,6 +12203,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 1685
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 1813
     }
   ],
   "Nevada": [
@@ -12441,6 +12573,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 3937
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 4081
     }
   ],
   "New Hampshire": [
@@ -12807,6 +12943,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 1490
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 1588
     }
   ],
   "New Jersey": [
@@ -13173,6 +13313,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 92387
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 95914
     }
   ],
   "New Mexico": [
@@ -13539,6 +13683,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 1971
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 2210
     }
   ],
   "New York": [
@@ -13905,6 +14053,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 258361
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 263292
     }
   ],
   "North Carolina": [
@@ -14271,6 +14423,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 7134
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 7495
     }
   ],
   "North Dakota": [
@@ -14637,6 +14793,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 644
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 679
     }
   ],
   "Ohio": [
@@ -15003,6 +15163,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 13725
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 14117
     }
   ],
   "Oklahoma": [
@@ -15369,6 +15533,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 2807
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 2894
     }
   ],
   "Oregon": [
@@ -15735,6 +15903,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 2004
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 2059
     }
   ],
   "Pennsylvania": [
@@ -16101,6 +16273,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 35249
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 36082
     }
   ],
   "Rhode Island": [
@@ -16467,6 +16643,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 5500
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 5841
     }
   ],
   "South Carolina": [
@@ -16833,6 +17013,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 4439
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 4761
     }
   ],
   "South Dakota": [
@@ -17199,6 +17383,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 1755
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 1858
     }
   ],
   "Tennessee": [
@@ -17564,6 +17752,10 @@
     },
     {
       "date": "2020-4-21",
+      "confirmed": 7394
+    },
+    {
+      "date": "2020-4-22",
       "confirmed": 7394
     }
   ],
@@ -17931,6 +18123,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 20574
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 21321
     }
   ],
   "Utah": [
@@ -18297,6 +18493,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 3297
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 3445
     }
   ],
   "Vermont": [
@@ -18663,6 +18863,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 818
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 823
     }
   ],
   "Virginia": [
@@ -19029,6 +19233,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 9630
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 10266
     }
   ],
   "Washington": [
@@ -19395,6 +19603,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 12563
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 12051
     }
   ],
   "West Virginia": [
@@ -19761,6 +19973,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 908
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 939
     }
   ],
   "Wisconsin": [
@@ -20127,6 +20343,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 4625
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 4845
     }
   ],
   "Wyoming": [
@@ -20493,6 +20713,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 443
+    },
+    {
+      "date": "2020-4-22",
+      "confirmed": 447
     }
   ],
   "Diamond Princess": [
@@ -20858,6 +21082,10 @@
     },
     {
       "date": "2020-4-21",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-4-22",
       "confirmed": 49
     }
   ],
@@ -21225,1104 +21453,10 @@
     {
       "date": "2020-4-21",
       "confirmed": 103
-    }
-  ],
-  "US Military": [
-    {
-      "date": "2020-1-22",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-23",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-24",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-25",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-26",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-27",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-28",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-29",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-30",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-31",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-1",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-2",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-3",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-4",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-5",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-6",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-7",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-8",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-9",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-10",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-11",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-12",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-13",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-14",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-15",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-16",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-17",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-18",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-19",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-20",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-21",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-22",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-23",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-24",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-25",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-26",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-27",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-28",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-29",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-1",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-2",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-3",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-4",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-5",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-6",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-7",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-8",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-9",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-10",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-11",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-12",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-13",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-14",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-15",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-16",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-17",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-18",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-19",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-20",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-21",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-22",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-23",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-24",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-25",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-26",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-27",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-28",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-29",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-30",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-31",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-1",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-2",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-3",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-4",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-5",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-6",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-7",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-8",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-9",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-10",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-11",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-12",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-13",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-14",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-15",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-16",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-17",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-18",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-19",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-20",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-21",
-      "confirmed": 5335
-    }
-  ],
-  "Federal Bureau of Prisons": [
-    {
-      "date": "2020-1-22",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-23",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-24",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-25",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-26",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-27",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-28",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-29",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-30",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-31",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-1",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-2",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-3",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-4",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-5",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-6",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-7",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-8",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-9",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-10",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-11",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-12",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-13",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-14",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-15",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-16",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-17",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-18",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-19",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-20",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-21",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-22",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-23",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-24",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-25",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-26",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-27",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-28",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-29",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-1",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-2",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-3",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-4",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-5",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-6",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-7",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-8",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-9",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-10",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-11",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-12",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-13",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-14",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-15",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-16",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-17",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-18",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-19",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-20",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-21",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-22",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-23",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-24",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-25",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-26",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-27",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-28",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-29",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-30",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-31",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-1",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-2",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-3",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-4",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-5",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-6",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-7",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-8",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-9",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-10",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-11",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-12",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-13",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-14",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-15",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-16",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-17",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-18",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-19",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-20",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-21",
-      "confirmed": 816
-    }
-  ],
-  "Veteran Hospitals": [
-    {
-      "date": "2020-1-22",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-23",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-24",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-25",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-26",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-27",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-28",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-29",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-30",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-1-31",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-1",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-2",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-3",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-4",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-5",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-6",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-7",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-8",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-9",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-10",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-11",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-12",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-13",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-14",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-15",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-16",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-17",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-18",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-19",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-20",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-21",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-22",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-23",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-24",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-25",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-26",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-27",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-28",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-2-29",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-1",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-2",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-3",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-4",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-5",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-6",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-7",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-8",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-9",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-10",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-11",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-12",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-13",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-14",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-15",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-16",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-17",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-18",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-19",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-20",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-21",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-22",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-23",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-24",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-25",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-26",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-27",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-28",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-29",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-30",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-3-31",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-1",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-2",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-3",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-4",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-5",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-6",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-7",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-8",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-9",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-10",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-11",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-12",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-13",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-14",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-15",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-16",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-17",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-18",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-19",
-      "confirmed": 0
-    },
-    {
-      "date": "2020-4-20",
-      "confirmed": 0
     },
     {
-      "date": "2020-4-21",
-      "confirmed": 5599
+      "date": "2020-4-22",
+      "confirmed": 103
     }
   ]
 }
