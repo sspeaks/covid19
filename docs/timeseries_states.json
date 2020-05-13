@@ -443,6 +443,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 0
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 0
     }
   ],
   "Guam": [
@@ -889,6 +893,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 151
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 152
     }
   ],
   "Northern Mariana Islands": [
@@ -1334,6 +1342,10 @@
     },
     {
       "date": "2020-5-11",
+      "confirmed": 19
+    },
+    {
+      "date": "2020-5-12",
       "confirmed": 19
     }
   ],
@@ -1781,6 +1793,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 2256
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 2299
     }
   ],
   "Virgin Islands": [
@@ -2226,6 +2242,10 @@
     },
     {
       "date": "2020-5-11",
+      "confirmed": 69
+    },
+    {
+      "date": "2020-5-12",
       "confirmed": 69
     }
   ],
@@ -2673,6 +2693,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 10164
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 10464
     }
   ],
   "Alaska": [
@@ -3119,6 +3143,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 379
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 383
     }
   ],
   "Arizona": [
@@ -3565,6 +3593,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 11383
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 11736
     }
   ],
   "Arkansas": [
@@ -4011,6 +4043,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 4043
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 4164
     }
   ],
   "California": [
@@ -4457,6 +4493,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 69329
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 70978
     }
   ],
   "Colorado": [
@@ -4903,6 +4943,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 19879
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 20157
     }
   ],
   "Connecticut": [
@@ -5349,6 +5393,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 33765
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 34333
     }
   ],
   "Delaware": [
@@ -5795,6 +5843,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 6565
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 6741
     }
   ],
   "District of Columbia": [
@@ -6241,6 +6293,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 6389
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 6485
     }
   ],
   "Florida": [
@@ -6687,6 +6743,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 40982
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 41923
     }
   ],
   "Georgia": [
@@ -7133,6 +7193,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 34002
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 34924
     }
   ],
   "Hawaii": [
@@ -7579,6 +7643,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 634
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 635
     }
   ],
   "Idaho": [
@@ -8025,6 +8093,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 2260
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 2293
     }
   ],
   "Illinois": [
@@ -8471,6 +8543,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 79007
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 83021
     }
   ],
   "Indiana": [
@@ -8917,6 +8993,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 24627
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 25127
     }
   ],
   "Iowa": [
@@ -9363,6 +9443,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 12373
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 12912
     }
   ],
   "Kansas": [
@@ -9809,6 +9893,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 7159
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 7240
     }
   ],
   "Kentucky": [
@@ -10255,6 +10343,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 6677
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 6853
     }
   ],
   "Louisiana": [
@@ -10701,6 +10793,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 31815
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 32050
     }
   ],
   "Maine": [
@@ -11147,6 +11243,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 1462
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 1477
     }
   ],
   "Maryland": [
@@ -11593,6 +11693,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 33373
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 34061
     }
   ],
   "Massachusetts": [
@@ -12039,6 +12143,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 78462
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 79332
     }
   ],
   "Michigan": [
@@ -12485,6 +12593,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 47552
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 48021
     }
   ],
   "Minnesota": [
@@ -12931,6 +13043,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 11799
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 12494
     }
   ],
   "Mississippi": [
@@ -13377,6 +13493,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 9674
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 9908
     }
   ],
   "Missouri": [
@@ -13823,6 +13943,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 10157
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 10269
     }
   ],
   "Montana": [
@@ -14269,6 +14393,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 459
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 461
     }
   ],
   "Nebraska": [
@@ -14715,6 +14843,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 8407
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 8532
     }
   ],
   "Nevada": [
@@ -15161,6 +15293,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 6152
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 6313
     }
   ],
   "New Hampshire": [
@@ -15607,6 +15743,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 3160
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 3239
     }
   ],
   "New Jersey": [
@@ -16053,6 +16193,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 140206
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 140917
     }
   ],
   "New Mexico": [
@@ -16499,6 +16643,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 5069
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 5212
     }
   ],
   "New York": [
@@ -16945,6 +17093,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 337055
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 338485
     }
   ],
   "North Carolina": [
@@ -17391,6 +17543,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 15274
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 15622
     }
   ],
   "North Dakota": [
@@ -17837,6 +17993,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 1518
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 1571
     }
   ],
   "Ohio": [
@@ -18283,6 +18443,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 24777
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 25250
     }
   ],
   "Oklahoma": [
@@ -18729,6 +18893,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 4613
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 4732
     }
   ],
   "Oregon": [
@@ -19175,6 +19343,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 3286
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 3358
     }
   ],
   "Pennsylvania": [
@@ -19621,6 +19793,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 60459
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 61310
     }
   ],
   "Rhode Island": [
@@ -20067,6 +20243,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 11450
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 11614
     }
   ],
   "South Carolina": [
@@ -20513,6 +20693,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 7792
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 7927
     }
   ],
   "South Dakota": [
@@ -20959,6 +21143,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 3614
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 3663
     }
   ],
   "Tennessee": [
@@ -21405,6 +21593,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 15544
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 16111
     }
   ],
   "Texas": [
@@ -21851,6 +22043,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 40555
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 41432
     }
   ],
   "Utah": [
@@ -22297,6 +22493,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 6362
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 6432
     }
   ],
   "Vermont": [
@@ -22743,6 +22943,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 926
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 927
     }
   ],
   "Virginia": [
@@ -23189,6 +23393,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 25070
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 25800
     }
   ],
   "Washington": [
@@ -23635,6 +23843,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 17122
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 17330
     }
   ],
   "West Virginia": [
@@ -24081,6 +24293,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 1366
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 1378
     }
   ],
   "Wisconsin": [
@@ -24527,6 +24743,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 10418
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 10611
     }
   ],
   "Wyoming": [
@@ -24973,6 +25193,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 669
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 675
     }
   ],
   "Diamond Princess": [
@@ -25419,6 +25643,10 @@
     {
       "date": "2020-5-11",
       "confirmed": 49
+    },
+    {
+      "date": "2020-5-12",
+      "confirmed": 49
     }
   ],
   "Grand Princess": [
@@ -25864,6 +26092,10 @@
     },
     {
       "date": "2020-5-11",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-5-12",
       "confirmed": 103
     }
   ]
