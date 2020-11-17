@@ -1123,6 +1123,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 187706
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 189149
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 190496
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 192285
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 193985
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 194892
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 195929
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 197777
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 199158
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 200714
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 202482
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 203687
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 204857
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 206567
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 208637
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 210637
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 213617
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 215843
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 217822
     }
   ],
   "Alaska": [
@@ -2249,6 +2321,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 15155
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 15522
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 15908
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 16355
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 16705
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 17057
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 17448
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 17860
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 18174
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 18699
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 19306
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 19826
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 20300
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 20832
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 21331
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 21812
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 22405
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 23153
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 23814
     }
   ],
   "American Samoa": [
@@ -3374,6 +3518,78 @@
     },
     {
       "date": "2020-10-28",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 0
+    },
+    {
+      "date": "2020-11-15",
       "confirmed": 0
     }
   ],
@@ -4501,6 +4717,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 241165
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 242480
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 244045
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 245946
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 247473
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 248139
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 249818
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 250633
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 252768
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 254764
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 257384
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 259264
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 259699
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 263133
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 265163
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 266562
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 269577
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 273053
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 275436
     }
   ],
   "Arkansas": [
@@ -5627,6 +5915,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 108640
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 109712
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 110874
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 112190
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 113057
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 113641
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 114519
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 115812
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 117360
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 119230
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 120828
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 121866
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 122811
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 124235
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 126197
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 128006
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 130318
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 132166
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 133040
     }
   ],
   "California": [
@@ -6753,6 +7113,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 919276
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 923648
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 928028
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 932143
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 935878
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 940411
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 945401
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 950920
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 956854
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 963211
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 969362
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 972713
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 981297
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 989432
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 995575
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 1004116
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 1013566
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 1023067
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 1032095
     }
   ],
   "Colorado": [
@@ -7254,631 +7686,703 @@
     },
     {
       "date": "2020-5-25",
-      "confirmed": 24256
+      "confirmed": 24269
     },
     {
       "date": "2020-5-26",
-      "confirmed": 24552
+      "confirmed": 24565
     },
     {
       "date": "2020-5-27",
-      "confirmed": 24754
+      "confirmed": 24767
     },
     {
       "date": "2020-5-28",
-      "confirmed": 25107
+      "confirmed": 25121
     },
     {
       "date": "2020-5-29",
-      "confirmed": 25598
+      "confirmed": 25612
     },
     {
       "date": "2020-5-30",
-      "confirmed": 26084
+      "confirmed": 26098
     },
     {
       "date": "2020-5-31",
-      "confirmed": 26364
+      "confirmed": 26378
     },
     {
       "date": "2020-6-1",
-      "confirmed": 26563
+      "confirmed": 26577
     },
     {
       "date": "2020-6-2",
-      "confirmed": 26774
+      "confirmed": 26788
     },
     {
       "date": "2020-6-3",
-      "confirmed": 27046
+      "confirmed": 27060
     },
     {
       "date": "2020-6-4",
-      "confirmed": 27346
+      "confirmed": 27360
     },
     {
       "date": "2020-6-5",
-      "confirmed": 27601
+      "confirmed": 27615
     },
     {
       "date": "2020-6-6",
-      "confirmed": 27834
+      "confirmed": 27848
     },
     {
       "date": "2020-6-7",
-      "confirmed": 27987
+      "confirmed": 28001
     },
     {
       "date": "2020-6-8",
-      "confirmed": 28169
+      "confirmed": 28183
     },
     {
       "date": "2020-6-9",
-      "confirmed": 28333
+      "confirmed": 28347
     },
     {
       "date": "2020-6-10",
-      "confirmed": 28484
+      "confirmed": 28499
     },
     {
       "date": "2020-6-11",
-      "confirmed": 28632
+      "confirmed": 28647
     },
     {
       "date": "2020-6-12",
-      "confirmed": 28807
+      "confirmed": 28822
     },
     {
       "date": "2020-6-13",
-      "confirmed": 29002
+      "confirmed": 29017
     },
     {
       "date": "2020-6-14",
-      "confirmed": 29115
+      "confirmed": 29130
     },
     {
       "date": "2020-6-15",
-      "confirmed": 29284
+      "confirmed": 29299
     },
     {
       "date": "2020-6-16",
-      "confirmed": 29427
+      "confirmed": 29442
     },
     {
       "date": "2020-6-17",
-      "confirmed": 29656
+      "confirmed": 29671
     },
     {
       "date": "2020-6-18",
-      "confirmed": 29886
+      "confirmed": 29901
     },
     {
       "date": "2020-6-19",
-      "confirmed": 30172
+      "confirmed": 30187
     },
     {
       "date": "2020-6-20",
-      "confirmed": 30333
+      "confirmed": 30348
     },
     {
       "date": "2020-6-21",
-      "confirmed": 30524
+      "confirmed": 30539
     },
     {
       "date": "2020-6-22",
-      "confirmed": 30689
+      "confirmed": 30705
     },
     {
       "date": "2020-6-23",
-      "confirmed": 30877
+      "confirmed": 30893
     },
     {
       "date": "2020-6-24",
-      "confirmed": 31139
+      "confirmed": 31155
     },
     {
       "date": "2020-6-25",
-      "confirmed": 31463
+      "confirmed": 31479
     },
     {
       "date": "2020-6-26",
-      "confirmed": 31780
+      "confirmed": 31796
     },
     {
       "date": "2020-6-27",
-      "confirmed": 32006
+      "confirmed": 32022
     },
     {
       "date": "2020-6-28",
-      "confirmed": 32290
+      "confirmed": 32307
     },
     {
       "date": "2020-6-29",
-      "confirmed": 32494
+      "confirmed": 32511
     },
     {
       "date": "2020-6-30",
-      "confirmed": 32698
+      "confirmed": 32715
     },
     {
       "date": "2020-7-1",
-      "confirmed": 33012
+      "confirmed": 33029
     },
     {
       "date": "2020-7-2",
-      "confirmed": 33335
+      "confirmed": 33352
     },
     {
       "date": "2020-7-3",
-      "confirmed": 33595
+      "confirmed": 33612
     },
     {
       "date": "2020-7-4",
-      "confirmed": 33849
+      "confirmed": 33866
     },
     {
       "date": "2020-7-5",
-      "confirmed": 34048
+      "confirmed": 34065
     },
     {
       "date": "2020-7-6",
-      "confirmed": 34240
+      "confirmed": 34257
     },
     {
       "date": "2020-7-7",
-      "confirmed": 34647
+      "confirmed": 34664
     },
     {
       "date": "2020-7-8",
-      "confirmed": 35099
+      "confirmed": 35116
     },
     {
       "date": "2020-7-9",
-      "confirmed": 35507
+      "confirmed": 35525
     },
     {
       "date": "2020-7-10",
-      "confirmed": 36173
+      "confirmed": 36191
     },
     {
       "date": "2020-7-11",
-      "confirmed": 36573
+      "confirmed": 36591
     },
     {
       "date": "2020-7-12",
-      "confirmed": 36895
+      "confirmed": 36913
     },
     {
       "date": "2020-7-13",
-      "confirmed": 37218
+      "confirmed": 37236
     },
     {
       "date": "2020-7-14",
-      "confirmed": 37668
+      "confirmed": 37686
     },
     {
       "date": "2020-7-15",
-      "confirmed": 38137
+      "confirmed": 38155
     },
     {
       "date": "2020-7-16",
-      "confirmed": 38708
+      "confirmed": 38726
     },
     {
       "date": "2020-7-17",
-      "confirmed": 39326
+      "confirmed": 39344
     },
     {
       "date": "2020-7-18",
-      "confirmed": 39770
+      "confirmed": 39788
     },
     {
       "date": "2020-7-19",
-      "confirmed": 40124
+      "confirmed": 40142
     },
     {
       "date": "2020-7-20",
-      "confirmed": 40548
+      "confirmed": 40566
     },
     {
       "date": "2020-7-21",
-      "confirmed": 41041
+      "confirmed": 41059
     },
     {
       "date": "2020-7-22",
-      "confirmed": 41680
+      "confirmed": 41698
     },
     {
       "date": "2020-7-23",
-      "confirmed": 42295
+      "confirmed": 42313
     },
     {
       "date": "2020-7-24",
-      "confirmed": 42962
+      "confirmed": 42980
     },
     {
       "date": "2020-7-25",
-      "confirmed": 43771
+      "confirmed": 43789
     },
     {
       "date": "2020-7-26",
-      "confirmed": 44318
+      "confirmed": 44336
     },
     {
       "date": "2020-7-27",
-      "confirmed": 44547
+      "confirmed": 44565
     },
     {
       "date": "2020-7-28",
-      "confirmed": 45296
+      "confirmed": 45314
     },
     {
       "date": "2020-7-29",
-      "confirmed": 45778
+      "confirmed": 45796
     },
     {
       "date": "2020-7-30",
-      "confirmed": 46186
+      "confirmed": 46204
     },
     {
       "date": "2020-7-31",
-      "confirmed": 46791
+      "confirmed": 46809
     },
     {
       "date": "2020-8-1",
-      "confirmed": 47249
+      "confirmed": 47267
     },
     {
       "date": "2020-8-2",
-      "confirmed": 47709
+      "confirmed": 47727
     },
     {
       "date": "2020-8-3",
-      "confirmed": 47950
+      "confirmed": 47968
     },
     {
       "date": "2020-8-4",
-      "confirmed": 48376
+      "confirmed": 48394
     },
     {
       "date": "2020-8-5",
-      "confirmed": 48970
+      "confirmed": 48988
     },
     {
       "date": "2020-8-6",
-      "confirmed": 49418
+      "confirmed": 49436
     },
     {
       "date": "2020-8-7",
-      "confirmed": 49875
+      "confirmed": 49893
     },
     {
       "date": "2020-8-8",
-      "confirmed": 50306
+      "confirmed": 50324
     },
     {
       "date": "2020-8-9",
-      "confirmed": 50642
+      "confirmed": 50660
     },
     {
       "date": "2020-8-10",
-      "confirmed": 51020
+      "confirmed": 51038
     },
     {
       "date": "2020-8-11",
-      "confirmed": 51422
+      "confirmed": 51441
     },
     {
       "date": "2020-8-12",
-      "confirmed": 51737
+      "confirmed": 51756
     },
     {
       "date": "2020-8-13",
-      "confirmed": 52200
+      "confirmed": 52219
     },
     {
       "date": "2020-8-14",
-      "confirmed": 52519
+      "confirmed": 52538
     },
     {
       "date": "2020-8-15",
-      "confirmed": 52819
+      "confirmed": 52838
     },
     {
       "date": "2020-8-16",
-      "confirmed": 53157
+      "confirmed": 53176
     },
     {
       "date": "2020-8-17",
-      "confirmed": 53351
+      "confirmed": 53370
     },
     {
       "date": "2020-8-18",
-      "confirmed": 53612
+      "confirmed": 53631
     },
     {
       "date": "2020-8-19",
-      "confirmed": 53882
+      "confirmed": 53901
     },
     {
       "date": "2020-8-20",
-      "confirmed": 54211
+      "confirmed": 54230
     },
     {
       "date": "2020-8-21",
-      "confirmed": 54211
+      "confirmed": 54230
     },
     {
       "date": "2020-8-22",
-      "confirmed": 54864
+      "confirmed": 54883
     },
     {
       "date": "2020-8-23",
-      "confirmed": 55123
+      "confirmed": 55143
     },
     {
       "date": "2020-8-24",
-      "confirmed": 55321
+      "confirmed": 55341
     },
     {
       "date": "2020-8-25",
-      "confirmed": 55780
+      "confirmed": 55800
     },
     {
       "date": "2020-8-26",
-      "confirmed": 55973
+      "confirmed": 55993
     },
     {
       "date": "2020-8-27",
-      "confirmed": 56323
+      "confirmed": 56343
     },
     {
       "date": "2020-8-28",
-      "confirmed": 56753
+      "confirmed": 56773
     },
     {
       "date": "2020-8-29",
-      "confirmed": 57020
+      "confirmed": 57040
     },
     {
       "date": "2020-8-30",
-      "confirmed": 57203
+      "confirmed": 57223
     },
     {
       "date": "2020-8-31",
-      "confirmed": 57404
+      "confirmed": 57424
     },
     {
       "date": "2020-9-1",
-      "confirmed": 57755
+      "confirmed": 57775
     },
     {
       "date": "2020-9-2",
-      "confirmed": 57999
+      "confirmed": 58019
     },
     {
       "date": "2020-9-3",
-      "confirmed": 58267
+      "confirmed": 58287
     },
     {
       "date": "2020-9-4",
-      "confirmed": 58267
+      "confirmed": 58287
     },
     {
       "date": "2020-9-5",
-      "confirmed": 58966
+      "confirmed": 58986
     },
     {
       "date": "2020-9-6",
-      "confirmed": 59251
+      "confirmed": 59271
     },
     {
       "date": "2020-9-7",
-      "confirmed": 59464
+      "confirmed": 59484
     },
     {
       "date": "2020-9-8",
-      "confirmed": 59651
+      "confirmed": 59671
     },
     {
       "date": "2020-9-9",
-      "confirmed": 59891
+      "confirmed": 59911
     },
     {
       "date": "2020-9-10",
-      "confirmed": 60155
+      "confirmed": 60175
     },
     {
       "date": "2020-9-11",
-      "confirmed": 60462
+      "confirmed": 60482
     },
     {
       "date": "2020-9-12",
-      "confirmed": 60876
+      "confirmed": 60896
     },
     {
       "date": "2020-9-13",
-      "confirmed": 61293
+      "confirmed": 61313
     },
     {
       "date": "2020-9-14",
-      "confirmed": 61667
+      "confirmed": 61687
     },
     {
       "date": "2020-9-15",
-      "confirmed": 62079
+      "confirmed": 62099
     },
     {
       "date": "2020-9-16",
-      "confirmed": 62666
+      "confirmed": 62686
     },
     {
       "date": "2020-9-17",
-      "confirmed": 63125
+      "confirmed": 63145
     },
     {
       "date": "2020-9-18",
-      "confirmed": 63730
+      "confirmed": 63750
     },
     {
       "date": "2020-9-19",
-      "confirmed": 64336
+      "confirmed": 64356
     },
     {
       "date": "2020-9-20",
-      "confirmed": 64837
+      "confirmed": 64857
     },
     {
       "date": "2020-9-21",
-      "confirmed": 65379
+      "confirmed": 65399
     },
     {
       "date": "2020-9-22",
-      "confirmed": 66033
+      "confirmed": 66053
     },
     {
       "date": "2020-9-23",
-      "confirmed": 66649
+      "confirmed": 66669
     },
     {
       "date": "2020-9-24",
-      "confirmed": 67196
+      "confirmed": 67217
     },
     {
       "date": "2020-9-25",
-      "confirmed": 67905
+      "confirmed": 67926
     },
     {
       "date": "2020-9-26",
-      "confirmed": 68489
+      "confirmed": 68510
     },
     {
       "date": "2020-9-27",
-      "confirmed": 69058
+      "confirmed": 69079
     },
     {
       "date": "2020-9-28",
-      "confirmed": 69469
+      "confirmed": 69490
     },
     {
       "date": "2020-9-29",
-      "confirmed": 70004
+      "confirmed": 70025
     },
     {
       "date": "2020-9-30",
-      "confirmed": 70515
+      "confirmed": 70536
     },
     {
       "date": "2020-10-1",
-      "confirmed": 71197
+      "confirmed": 71218
     },
     {
       "date": "2020-10-2",
-      "confirmed": 71876
+      "confirmed": 71898
     },
     {
       "date": "2020-10-3",
-      "confirmed": 72533
+      "confirmed": 72555
     },
     {
       "date": "2020-10-4",
-      "confirmed": 73054
+      "confirmed": 73076
     },
     {
       "date": "2020-10-5",
-      "confirmed": 73515
+      "confirmed": 73537
     },
     {
       "date": "2020-10-6",
-      "confirmed": 74169
+      "confirmed": 74191
     },
     {
       "date": "2020-10-7",
-      "confirmed": 74899
+      "confirmed": 74922
     },
     {
       "date": "2020-10-8",
-      "confirmed": 75761
+      "confirmed": 75785
     },
     {
       "date": "2020-10-9",
-      "confirmed": 76595
+      "confirmed": 76619
     },
     {
       "date": "2020-10-10",
-      "confirmed": 77618
+      "confirmed": 77642
     },
     {
       "date": "2020-10-11",
-      "confirmed": 78437
+      "confirmed": 78461
     },
     {
       "date": "2020-10-12",
-      "confirmed": 79013
+      "confirmed": 79037
     },
     {
       "date": "2020-10-13",
-      "confirmed": 80061
+      "confirmed": 80085
     },
     {
       "date": "2020-10-14",
-      "confirmed": 80753
+      "confirmed": 80777
     },
     {
       "date": "2020-10-15",
-      "confirmed": 81895
+      "confirmed": 81918
     },
     {
       "date": "2020-10-16",
-      "confirmed": 83207
+      "confirmed": 83230
     },
     {
       "date": "2020-10-17",
-      "confirmed": 84346
+      "confirmed": 84369
     },
     {
       "date": "2020-10-18",
-      "confirmed": 85279
+      "confirmed": 85302
     },
     {
       "date": "2020-10-19",
-      "confirmed": 86351
+      "confirmed": 86374
     },
     {
       "date": "2020-10-20",
-      "confirmed": 87559
+      "confirmed": 87582
     },
     {
       "date": "2020-10-21",
-      "confirmed": 88826
+      "confirmed": 88849
     },
     {
       "date": "2020-10-22",
-      "confirmed": 90199
+      "confirmed": 90222
     },
     {
       "date": "2020-10-23",
-      "confirmed": 91549
+      "confirmed": 91572
     },
     {
       "date": "2020-10-24",
-      "confirmed": 93377
+      "confirmed": 93400
     },
     {
       "date": "2020-10-25",
-      "confirmed": 95066
+      "confirmed": 95089
     },
     {
       "date": "2020-10-26",
-      "confirmed": 97277
+      "confirmed": 97300
     },
     {
       "date": "2020-10-27",
-      "confirmed": 98710
+      "confirmed": 98733
     },
     {
       "date": "2020-10-28",
-      "confirmed": 100185
+      "confirmed": 100208
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 102014
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 104426
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 107350
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 109910
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 112147
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 114709
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 117637
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 121006
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 124469
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 127967
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 130984
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 134537
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 138427
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 142402
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 147599
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 154038
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 159234
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 163417
     }
   ],
   "Connecticut": [
@@ -9005,6 +9509,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 69127
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 70446
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 71207
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 71207
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 71207
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 73858
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 74843
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 75373
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 77060
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 78125
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 78125
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 78125
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 81432
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 82953
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 84741
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 85899
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 88645
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 88645
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 88645
     }
   ],
   "Delaware": [
@@ -10131,6 +10707,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 24392
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 24553
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 24751
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 24951
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 25126
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 25311
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 25426
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 25534
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 25753
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 26035
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 26258
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 26603
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 26908
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 27112
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 27342
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 27546
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 28016
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 28395
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 28803
     }
   ],
   "Diamond Princess": [
@@ -11256,6 +11904,78 @@
     },
     {
       "date": "2020-10-28",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 49
+    },
+    {
+      "date": "2020-11-15",
       "confirmed": 49
     }
   ],
@@ -12383,6 +13103,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 16973
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 17074
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 17144
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 17266
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 17369
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 17438
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 17524
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 17601
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 17682
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 17792
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 17891
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 18001
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 18087
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 18173
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 18379
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 18507
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 18666
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 18814
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 18977
     }
   ],
   "Florida": [
@@ -13509,6 +14301,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 790426
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 794624
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 800216
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 802547
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 807412
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 812063
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 816700
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 821123
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 827380
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 832625
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 837077
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 843897
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 847821
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 852174
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 858012
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 863619
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 870552
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 875096
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 885201
     }
   ],
   "Georgia": [
@@ -14635,6 +15499,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 355025
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 356848
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 358225
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 360790
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 361982
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 362921
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 394526
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 397137
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 399625
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 402427
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 405037
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 406061
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 407333
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 411652
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 413894
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 416876
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 419870
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 422905
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 424989
     }
   ],
   "Grand Princess": [
@@ -15760,6 +16696,78 @@
     },
     {
       "date": "2020-10-28",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 103
+    },
+    {
+      "date": "2020-11-15",
       "confirmed": 103
     }
   ],
@@ -16887,6 +17895,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 4466
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 4549
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 4628
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 4628
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 4628
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 4628
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 4812
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 4903
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 5004
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 5077
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 5077
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 5077
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 5473
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 5654
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 5654
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 5850
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 5924
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 5924
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 5924
     }
   ],
   "Hawaii": [
@@ -17824,195 +18904,267 @@
     },
     {
       "date": "2020-9-11",
-      "confirmed": 10459
+      "confirmed": 10593
     },
     {
       "date": "2020-9-12",
-      "confirmed": 10588
+      "confirmed": 10722
     },
     {
       "date": "2020-9-13",
-      "confirmed": 10700
+      "confirmed": 10834
     },
     {
       "date": "2020-9-14",
-      "confirmed": 10779
+      "confirmed": 10913
     },
     {
       "date": "2020-9-15",
-      "confirmed": 10844
+      "confirmed": 10978
     },
     {
       "date": "2020-9-16",
-      "confirmed": 10946
+      "confirmed": 11080
     },
     {
       "date": "2020-9-17",
-      "confirmed": 11105
+      "confirmed": 11239
     },
     {
       "date": "2020-9-18",
-      "confirmed": 11217
+      "confirmed": 11376
     },
     {
       "date": "2020-9-19",
-      "confirmed": 11326
+      "confirmed": 11485
     },
     {
       "date": "2020-9-20",
-      "confirmed": 11403
+      "confirmed": 11562
     },
     {
       "date": "2020-9-21",
-      "confirmed": 11459
+      "confirmed": 11618
     },
     {
       "date": "2020-9-22",
-      "confirmed": 11522
+      "confirmed": 11681
     },
     {
       "date": "2020-9-23",
-      "confirmed": 11689
+      "confirmed": 11848
     },
     {
       "date": "2020-9-24",
-      "confirmed": 11779
+      "confirmed": 11938
     },
     {
       "date": "2020-9-25",
-      "confirmed": 11891
+      "confirmed": 12078
     },
     {
       "date": "2020-9-26",
-      "confirmed": 12018
+      "confirmed": 12205
     },
     {
       "date": "2020-9-27",
-      "confirmed": 12116
+      "confirmed": 12303
     },
     {
       "date": "2020-9-28",
-      "confirmed": 12203
+      "confirmed": 12390
     },
     {
       "date": "2020-9-29",
-      "confirmed": 12290
+      "confirmed": 12477
     },
     {
       "date": "2020-9-30",
-      "confirmed": 12410
+      "confirmed": 12597
     },
     {
       "date": "2020-10-1",
-      "confirmed": 12515
+      "confirmed": 12702
     },
     {
       "date": "2020-10-2",
-      "confirmed": 12601
+      "confirmed": 12788
     },
     {
       "date": "2020-10-3",
-      "confirmed": 12734
+      "confirmed": 12921
     },
     {
       "date": "2020-10-4",
-      "confirmed": 12804
+      "confirmed": 12991
     },
     {
       "date": "2020-10-5",
-      "confirmed": 12854
+      "confirmed": 13041
     },
     {
       "date": "2020-10-6",
-      "confirmed": 12937
+      "confirmed": 13124
     },
     {
       "date": "2020-10-7",
-      "confirmed": 13045
+      "confirmed": 13232
     },
     {
       "date": "2020-10-8",
-      "confirmed": 13146
+      "confirmed": 13333
     },
     {
       "date": "2020-10-9",
-      "confirmed": 13300
+      "confirmed": 13494
     },
     {
       "date": "2020-10-10",
-      "confirmed": 13371
+      "confirmed": 13565
     },
     {
       "date": "2020-10-11",
-      "confirmed": 13472
+      "confirmed": 13666
     },
     {
       "date": "2020-10-12",
-      "confirmed": 13514
+      "confirmed": 13708
     },
     {
       "date": "2020-10-13",
-      "confirmed": 13575
+      "confirmed": 13769
     },
     {
       "date": "2020-10-14",
-      "confirmed": 13674
+      "confirmed": 13868
     },
     {
       "date": "2020-10-15",
-      "confirmed": 13764
+      "confirmed": 13958
     },
     {
       "date": "2020-10-16",
-      "confirmed": 13853
+      "confirmed": 14047
     },
     {
       "date": "2020-10-17",
-      "confirmed": 13949
+      "confirmed": 14143
     },
     {
       "date": "2020-10-18",
-      "confirmed": 14031
+      "confirmed": 14225
     },
     {
       "date": "2020-10-19",
-      "confirmed": 14068
+      "confirmed": 14262
     },
     {
       "date": "2020-10-20",
-      "confirmed": 14156
+      "confirmed": 14350
     },
     {
       "date": "2020-10-21",
-      "confirmed": 14233
+      "confirmed": 14427
     },
     {
       "date": "2020-10-22",
-      "confirmed": 14335
+      "confirmed": 14529
     },
     {
       "date": "2020-10-23",
-      "confirmed": 14464
+      "confirmed": 14669
     },
     {
       "date": "2020-10-24",
-      "confirmed": 14553
+      "confirmed": 14758
     },
     {
       "date": "2020-10-25",
-      "confirmed": 14672
+      "confirmed": 14877
     },
     {
       "date": "2020-10-26",
-      "confirmed": 14709
+      "confirmed": 14914
     },
     {
       "date": "2020-10-27",
-      "confirmed": 14773
+      "confirmed": 14978
     },
     {
       "date": "2020-10-28",
-      "confirmed": 14834
+      "confirmed": 15039
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 15116
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 15216
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 15284
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 15367
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 15444
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 15531
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 15686
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 15785
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 15923
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 16051
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 16179
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 16242
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 16320
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 16437
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 16534
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 16652
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 16759
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 16759
     }
   ],
   "Idaho": [
@@ -19139,6 +20291,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 61785
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 62746
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 63810
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 64608
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 65088
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 65845
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 67024
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 68314
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 69579
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 70909
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 72312
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 72961
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 74227
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 75428
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 77121
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 78279
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 79798
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 81317
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 82245
     }
   ],
   "Illinois": [
@@ -20265,6 +21489,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 393797
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 400159
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 408648
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 416547
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 423527
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 429749
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 436265
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 443803
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 453738
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 465540
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 477978
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 487987
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 498560
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 511183
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 523840
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 536542
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 551957
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 562985
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 573616
     }
   ],
   "Indiana": [
@@ -21391,6 +22687,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 169112
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 172730
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 175893
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 179358
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 182108
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 185185
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 188066
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 191764
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 196176
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 200823
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 205722
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 210374
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 214509
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 219338
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 224374
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 230965
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 236565
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 244887
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 251597
     }
   ],
   "Iowa": [
@@ -22517,6 +23885,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 120635
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 122950
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 125722
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 128510
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 130974
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 132516
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 134326
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 137214
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 142491
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 145866
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 150254
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 154778
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 159910
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 163827
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 168453
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 173404
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 178888
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 183555
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 186314
     }
   ],
   "Kansas": [
@@ -23490,159 +24930,231 @@
     },
     {
       "date": "2020-9-20",
-      "confirmed": 52700
+      "confirmed": 54905
     },
     {
       "date": "2020-9-21",
-      "confirmed": 53627
+      "confirmed": 55222
     },
     {
       "date": "2020-9-22",
-      "confirmed": 54000
+      "confirmed": 56248
     },
     {
       "date": "2020-9-23",
-      "confirmed": 54846
+      "confirmed": 56577
     },
     {
       "date": "2020-9-24",
-      "confirmed": 55292
+      "confirmed": 57713
     },
     {
       "date": "2020-9-25",
-      "confirmed": 56425
+      "confirmed": 58101
     },
     {
       "date": "2020-9-26",
-      "confirmed": 56653
+      "confirmed": 58105
     },
     {
       "date": "2020-9-27",
-      "confirmed": 56874
+      "confirmed": 59596
     },
     {
       "date": "2020-9-28",
-      "confirmed": 57963
+      "confirmed": 59931
     },
     {
       "date": "2020-9-29",
-      "confirmed": 58350
+      "confirmed": 60911
     },
     {
       "date": "2020-9-30",
-      "confirmed": 59040
+      "confirmed": 61175
     },
     {
       "date": "2020-10-1",
-      "confirmed": 59514
+      "confirmed": 62368
     },
     {
       "date": "2020-10-2",
-      "confirmed": 60468
+      "confirmed": 62597
     },
     {
       "date": "2020-10-3",
-      "confirmed": 60725
+      "confirmed": 62632
     },
     {
       "date": "2020-10-4",
-      "confirmed": 60980
+      "confirmed": 63813
     },
     {
       "date": "2020-10-5",
-      "confirmed": 61831
+      "confirmed": 64018
     },
     {
       "date": "2020-10-6",
-      "confirmed": 62315
+      "confirmed": 65215
     },
     {
       "date": "2020-10-7",
-      "confirmed": 62941
+      "confirmed": 65317
     },
     {
       "date": "2020-10-8",
-      "confirmed": 63501
+      "confirmed": 67006
     },
     {
       "date": "2020-10-9",
-      "confirmed": 64714
+      "confirmed": 67276
     },
     {
       "date": "2020-10-10",
-      "confirmed": 65039
+      "confirmed": 67359
     },
     {
       "date": "2020-10-11",
-      "confirmed": 65303
+      "confirmed": 68984
     },
     {
       "date": "2020-10-12",
-      "confirmed": 66399
+      "confirmed": 69304
     },
     {
       "date": "2020-10-13",
-      "confirmed": 66860
+      "confirmed": 70507
     },
     {
       "date": "2020-10-14",
-      "confirmed": 67805
+      "confirmed": 70772
     },
     {
       "date": "2020-10-15",
-      "confirmed": 68510
+      "confirmed": 72294
     },
     {
       "date": "2020-10-16",
-      "confirmed": 69550
+      "confirmed": 72531
     },
     {
       "date": "2020-10-17",
-      "confirmed": 70023
+      "confirmed": 72649
     },
     {
       "date": "2020-10-18",
-      "confirmed": 70268
+      "confirmed": 74235
     },
     {
       "date": "2020-10-19",
-      "confirmed": 71557
+      "confirmed": 74691
     },
     {
       "date": "2020-10-20",
-      "confirmed": 72179
+      "confirmed": 76048
     },
     {
       "date": "2020-10-21",
-      "confirmed": 73485
+      "confirmed": 76464
     },
     {
       "date": "2020-10-22",
-      "confirmed": 74068
+      "confirmed": 77905
     },
     {
       "date": "2020-10-23",
-      "confirmed": 75181
+      "confirmed": 78333
     },
     {
       "date": "2020-10-24",
-      "confirmed": 75538
+      "confirmed": 78405
     },
     {
       "date": "2020-10-25",
-      "confirmed": 75816
+      "confirmed": 80229
     },
     {
       "date": "2020-10-26",
-      "confirmed": 76979
+      "confirmed": 80632
     },
     {
       "date": "2020-10-27",
-      "confirmed": 77887
+      "confirmed": 83361
     },
     {
       "date": "2020-10-28",
-      "confirmed": 79248
+      "confirmed": 83685
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 86438
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 86900
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 86943
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 90290
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 90738
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 93430
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 93929
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 98766
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 99552
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 99772
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 104622
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 105127
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 105604
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 110918
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 111240
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 117505
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 117523
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 117564
     }
   ],
   "Kentucky": [
@@ -24769,6 +26281,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 101494
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 103305
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 105242
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 107219
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 108642
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 109670
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 111379
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 113009
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 115277
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 117505
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 119661
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 120838
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 122567
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 124646
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 127344
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 129680
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 132844
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 136137
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 137586
     }
   ],
   "Louisiana": [
@@ -25642,259 +27226,331 @@
     },
     {
       "date": "2020-8-26",
-      "confirmed": 144960
+      "confirmed": 145661
     },
     {
       "date": "2020-8-27",
-      "confirmed": 145637
+      "confirmed": 146338
     },
     {
       "date": "2020-8-28",
-      "confirmed": 146243
+      "confirmed": 146944
     },
     {
       "date": "2020-8-29",
-      "confirmed": 146243
+      "confirmed": 146944
     },
     {
       "date": "2020-8-30",
-      "confirmed": 147867
+      "confirmed": 148568
     },
     {
       "date": "2020-8-31",
-      "confirmed": 148193
+      "confirmed": 148894
     },
     {
       "date": "2020-9-1",
-      "confirmed": 148882
+      "confirmed": 149583
     },
     {
       "date": "2020-9-2",
-      "confirmed": 149838
+      "confirmed": 150724
     },
     {
       "date": "2020-9-3",
-      "confirmed": 150651
+      "confirmed": 151537
     },
     {
       "date": "2020-9-4",
-      "confirmed": 151473
+      "confirmed": 152359
     },
     {
       "date": "2020-9-5",
-      "confirmed": 151473
+      "confirmed": 152359
     },
     {
       "date": "2020-9-6",
-      "confirmed": 152868
+      "confirmed": 153754
     },
     {
       "date": "2020-9-7",
-      "confirmed": 153177
+      "confirmed": 154063
     },
     {
       "date": "2020-9-8",
-      "confirmed": 153433
+      "confirmed": 154319
     },
     {
       "date": "2020-9-9",
-      "confirmed": 154955
+      "confirmed": 155890
     },
     {
       "date": "2020-9-10",
-      "confirmed": 155419
+      "confirmed": 156354
     },
     {
       "date": "2020-9-11",
-      "confirmed": 156174
+      "confirmed": 157109
     },
     {
       "date": "2020-9-12",
-      "confirmed": 156174
+      "confirmed": 157109
     },
     {
       "date": "2020-9-13",
-      "confirmed": 157455
+      "confirmed": 158390
     },
     {
       "date": "2020-9-14",
-      "confirmed": 157947
+      "confirmed": 158882
     },
     {
       "date": "2020-9-15",
-      "confirmed": 158318
+      "confirmed": 159253
     },
     {
       "date": "2020-9-16",
-      "confirmed": 158826
+      "confirmed": 159865
     },
     {
       "date": "2020-9-17",
-      "confirmed": 159304
+      "confirmed": 160343
     },
     {
       "date": "2020-9-18",
-      "confirmed": 160283
+      "confirmed": 161322
     },
     {
       "date": "2020-9-19",
-      "confirmed": 160283
+      "confirmed": 161322
     },
     {
       "date": "2020-9-20",
-      "confirmed": 161219
+      "confirmed": 162258
     },
     {
       "date": "2020-9-21",
-      "confirmed": 161462
+      "confirmed": 162501
     },
     {
       "date": "2020-9-22",
-      "confirmed": 162214
+      "confirmed": 163253
     },
     {
       "date": "2020-9-23",
-      "confirmed": 162645
+      "confirmed": 163869
     },
     {
       "date": "2020-9-24",
-      "confirmed": 163222
+      "confirmed": 164446
     },
     {
       "date": "2020-9-25",
-      "confirmed": 163928
+      "confirmed": 165152
     },
     {
       "date": "2020-9-26",
-      "confirmed": 163928
+      "confirmed": 165152
     },
     {
       "date": "2020-9-27",
-      "confirmed": 164851
+      "confirmed": 166075
     },
     {
       "date": "2020-9-28",
-      "confirmed": 165091
+      "confirmed": 166315
     },
     {
       "date": "2020-9-29",
-      "confirmed": 165624
+      "confirmed": 166848
     },
     {
       "date": "2020-9-30",
-      "confirmed": 166033
+      "confirmed": 167458
     },
     {
       "date": "2020-10-1",
-      "confirmed": 166584
+      "confirmed": 168009
     },
     {
       "date": "2020-10-2",
-      "confirmed": 167401
+      "confirmed": 168826
     },
     {
       "date": "2020-10-3",
-      "confirmed": 167401
+      "confirmed": 168826
     },
     {
       "date": "2020-10-4",
-      "confirmed": 168294
+      "confirmed": 169719
     },
     {
       "date": "2020-10-5",
-      "confirmed": 168512
+      "confirmed": 169937
     },
     {
       "date": "2020-10-6",
-      "confirmed": 169044
+      "confirmed": 170469
     },
     {
       "date": "2020-10-7",
-      "confirmed": 170097
+      "confirmed": 172625
     },
     {
       "date": "2020-10-8",
-      "confirmed": 170621
+      "confirmed": 173149
     },
     {
       "date": "2020-10-9",
-      "confirmed": 170878
+      "confirmed": 173406
     },
     {
       "date": "2020-10-10",
-      "confirmed": 170878
+      "confirmed": 173406
     },
     {
       "date": "2020-10-11",
-      "confirmed": 172059
+      "confirmed": 174587
     },
     {
       "date": "2020-10-12",
-      "confirmed": 172119
+      "confirmed": 174647
     },
     {
       "date": "2020-10-13",
-      "confirmed": 172801
+      "confirmed": 175329
     },
     {
       "date": "2020-10-14",
-      "confirmed": 173121
+      "confirmed": 176209
     },
     {
       "date": "2020-10-15",
-      "confirmed": 173864
+      "confirmed": 176952
     },
     {
       "date": "2020-10-16",
-      "confirmed": 174638
+      "confirmed": 177726
     },
     {
       "date": "2020-10-17",
-      "confirmed": 174638
+      "confirmed": 177726
     },
     {
       "date": "2020-10-18",
-      "confirmed": 175781
+      "confirmed": 178869
     },
     {
       "date": "2020-10-19",
-      "confirmed": 175982
+      "confirmed": 179070
     },
     {
       "date": "2020-10-20",
-      "confirmed": 176681
+      "confirmed": 179769
     },
     {
       "date": "2020-10-21",
-      "confirmed": 177399
+      "confirmed": 181132
     },
     {
       "date": "2020-10-22",
-      "confirmed": 178171
+      "confirmed": 181904
     },
     {
       "date": "2020-10-23",
-      "confirmed": 178870
+      "confirmed": 182603
     },
     {
       "date": "2020-10-24",
-      "confirmed": 178870
+      "confirmed": 182603
     },
     {
       "date": "2020-10-25",
-      "confirmed": 179842
+      "confirmed": 183575
     },
     {
       "date": "2020-10-26",
-      "confirmed": 180069
+      "confirmed": 183802
     },
     {
       "date": "2020-10-27",
-      "confirmed": 180991
+      "confirmed": 184724
     },
     {
       "date": "2020-10-28",
-      "confirmed": 181443
+      "confirmed": 185822
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 186216
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 186649
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 186649
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 187720
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 187995
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 189148
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 190164
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 190845
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 191715
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 191715
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 192981
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 193372
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 194702
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 194702
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 198531
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 201981
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 201981
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 201981
     }
   ],
   "Maine": [
@@ -27021,6 +28677,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 6386
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 6466
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 6566
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 6662
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 6711
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 6798
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 6925
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 7071
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 7260
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 7444
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 7600
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 7693
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 7888
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 8060
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 8202
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 8395
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 8639
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 8791
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 8944
     }
   ],
   "Maryland": [
@@ -28147,6 +29875,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 142425
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 143387
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 144314
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 145281
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 146145
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 146995
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 147766
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 148766
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 149964
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 151505
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 152915
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 153996
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 155371
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 156709
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 158423
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 159900
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 161769
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 164090
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 165930
     }
   ],
   "Massachusetts": [
@@ -29273,6 +31073,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 154218
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 155564
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 157146
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 158576
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 159707
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 160549
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 161585
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 163299
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 165161
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 167274
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 169576
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 171399
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 172727
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 174881
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 177541
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 180189
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 183095
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 186142
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 188275
     }
   ],
   "Michigan": [
@@ -30399,6 +32271,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 185934
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 190043
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 193388
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 197406
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 197406
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 204326
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 207763
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 212160
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 218263
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 222509
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 229073
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 229073
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 238308
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 245252
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 251872
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 259183
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 268362
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 275792
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 275792
     }
   ],
   "Minnesota": [
@@ -31525,6 +33469,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 139444
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 142311
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 145465
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 148472
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 150672
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 153620
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 157096
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 160923
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 164865
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 170307
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 174954
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 180862
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 184788
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 189681
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 194570
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 201795
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 207339
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 216028
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 223581
     }
   ],
   "Mississippi": [
@@ -32651,6 +34667,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 117617
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 118587
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 119336
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 120160
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 120500
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 120865
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 121509
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 122275
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 123887
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 124854
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 125885
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 126689
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 127205
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 128138
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 129394
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 130665
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 131970
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 133340
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 134309
     }
   ],
   "Missouri": [
@@ -33777,6 +35865,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 177319
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 177707
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 183129
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 185992
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 188325
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 191223
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 193441
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 196253
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 200042
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 204404
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 208941
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 212869
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 216144
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 220720
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 224664
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 229712
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 234116
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 243762
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 244541
     }
   ],
   "Montana": [
@@ -34903,6 +37063,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 29966
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 30853
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 31916
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 32801
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 33495
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 34252
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 35159
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 35955
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 36968
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 37947
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 38948
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 39679
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 40053
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 41151
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 42070
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 43031
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 44244
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 45886
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 47158
     }
   ],
   "Nebraska": [
@@ -36029,6 +38261,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 66545
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 68150
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 69645
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 70732
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 71666
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 72620
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 74060
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 75888
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 78012
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 80693
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 82395
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 83969
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 85551
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 87733
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 89942
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 92553
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 94922
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 96834
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 98161
     }
   ],
   "Nevada": [
@@ -37155,6 +39459,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 97479
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 98552
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 99784
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 100761
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 101477
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 102114
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 103025
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 104093
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 105360
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 106922
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 108746
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 110022
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 110982
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 112304
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 113411
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 114880
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 116737
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 119006
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 120183
     }
   ],
   "New Hampshire": [
@@ -38281,6 +40657,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 10641
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 10768
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 10884
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 11084
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 11214
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 11320
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 11448
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 11563
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 11808
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 12012
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 12241
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 12488
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 12699
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 12919
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 13152
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 13475
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 13937
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 14321
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 14682
     }
   ],
   "New Jersey": [
@@ -39407,6 +41855,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 232997
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 234547
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 236523
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 237886
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 239629
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 240997
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 242825
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 245257
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 247219
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 249380
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 252582
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 254595
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 256653
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 260430
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 263495
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 266986
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 270383
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 274736
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 279274
     }
   ],
   "New Mexico": [
@@ -40533,6 +43053,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 43826
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 44904
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 45909
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 46490
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 47232
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 48104
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 49240
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 50251
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 51110
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 52394
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 53671
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 54881
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 56289
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 57547
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 59034
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 60776
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 62006
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 63171
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 64201
     }
   ],
   "New York": [
@@ -41659,6 +44251,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 500677
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 503176
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 505431
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 507543
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 509735
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 511368
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 513689
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 515815
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 518812
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 522021
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 525608
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 529036
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 532180
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 536145
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 540965
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 545762
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 551163
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 556551
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 560200
     }
   ],
   "North Carolina": [
@@ -42785,6 +45449,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 266136
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 269021
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 271830
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 274635
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 276692
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 278028
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 280377
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 282802
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 285661
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 288569
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 291245
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 293339
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 294860
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 297442
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 300561
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 303454
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 305233
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 309118
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 312235
     }
   ],
   "North Dakota": [
@@ -43911,6 +46647,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 39907
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 41130
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 42483
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 43916
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 45043
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 46015
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 47187
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 48301
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 49837
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 51602
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 53204
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 54305
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 55458
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 56352
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 57373
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 59173
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 60602
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 62872
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 63796
     }
   ],
   "Northern Mariana Islands": [
@@ -45037,6 +47845,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 92
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 92
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 92
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 92
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 96
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 96
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 96
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 96
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 98
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 98
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 98
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 100
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 100
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 100
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 100
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 100
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 100
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 100
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 102
     }
   ],
   "Ohio": [
@@ -46163,6 +49043,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 205347
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 208937
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 212782
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 215697
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 219000
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 221909
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 226138
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 230209
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 235170
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 240178
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 245727
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 250268
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 254974
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 261482
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 267356
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 274457
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 282528
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 290243
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 298096
     }
   ],
   "Oklahoma": [
@@ -47289,6 +50241,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 119152
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 120193
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 121495
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 122762
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 124111
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 125195
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 126526
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 127772
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 129873
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 131751
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 131751
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 136258
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 138455
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 140157
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 142334
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 144691
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 147358
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 150205
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 154128
     }
   ],
   "Oregon": [
@@ -48415,6 +51439,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 43228
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 43793
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 44388
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 44921
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 45429
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 45978
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 46460
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 47049
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 47839
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 48608
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 49587
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 50448
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 51155
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 51909
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 52770
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 53879
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 54937
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 56018
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 56880
     }
   ],
   "Pennsylvania": [
@@ -49541,6 +52637,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 205852
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 208087
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 210586
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 212791
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 214416
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 217243
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 220074
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 222883
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 225698
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 229346
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 232493
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 235014
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 239724
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 244046
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 248015
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 254155
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 259988
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 264222
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 268696
     }
   ],
   "Puerto Rico": [
@@ -49914,7 +53082,7 @@
     },
     {
       "date": "2020-4-23",
-      "confirmed": 1416
+      "confirmed": 1230
     },
     {
       "date": "2020-4-24",
@@ -49922,751 +53090,823 @@
     },
     {
       "date": "2020-4-25",
-      "confirmed": 1307
+      "confirmed": 873
     },
     {
       "date": "2020-4-26",
-      "confirmed": 1371
+      "confirmed": 886
     },
     {
       "date": "2020-4-27",
-      "confirmed": 1389
+      "confirmed": 890
     },
     {
       "date": "2020-4-28",
-      "confirmed": 1400
+      "confirmed": 893
     },
     {
       "date": "2020-4-29",
-      "confirmed": 1433
+      "confirmed": 899
     },
     {
       "date": "2020-4-30",
-      "confirmed": 1539
+      "confirmed": 949
     },
     {
       "date": "2020-5-1",
-      "confirmed": 1575
+      "confirmed": 958
     },
     {
       "date": "2020-5-2",
-      "confirmed": 1757
+      "confirmed": 967
     },
     {
       "date": "2020-5-3",
-      "confirmed": 1808
+      "confirmed": 982
     },
     {
       "date": "2020-5-4",
-      "confirmed": 1843
+      "confirmed": 995
     },
     {
       "date": "2020-5-5",
-      "confirmed": 1924
+      "confirmed": 999
     },
     {
       "date": "2020-5-6",
-      "confirmed": 1968
+      "confirmed": 999
     },
     {
       "date": "2020-5-7",
-      "confirmed": 2031
+      "confirmed": 1006
     },
     {
       "date": "2020-5-8",
-      "confirmed": 2156
+      "confirmed": 1022
     },
     {
       "date": "2020-5-9",
-      "confirmed": 2173
+      "confirmed": 1027
     },
     {
       "date": "2020-5-10",
-      "confirmed": 2198
+      "confirmed": 1033
     },
     {
       "date": "2020-5-11",
-      "confirmed": 2256
+      "confirmed": 1047
     },
     {
       "date": "2020-5-12",
-      "confirmed": 2299
+      "confirmed": 1055
     },
     {
       "date": "2020-5-13",
-      "confirmed": 2329
+      "confirmed": 1057
     },
     {
       "date": "2020-5-14",
-      "confirmed": 2427
+      "confirmed": 1066
     },
     {
       "date": "2020-5-15",
-      "confirmed": 2542
+      "confirmed": 1080
     },
     {
       "date": "2020-5-16",
-      "confirmed": 2589
+      "confirmed": 1106
     },
     {
       "date": "2020-5-17",
-      "confirmed": 2646
+      "confirmed": 1139
     },
     {
       "date": "2020-5-18",
-      "confirmed": 2710
+      "confirmed": 1187
     },
     {
       "date": "2020-5-19",
-      "confirmed": 2805
+      "confirmed": 1199
     },
     {
       "date": "2020-5-20",
-      "confirmed": 2866
+      "confirmed": 1198
     },
     {
       "date": "2020-5-21",
-      "confirmed": 2913
+      "confirmed": 1205
     },
     {
       "date": "2020-5-22",
-      "confirmed": 3030
+      "confirmed": 1213
     },
     {
       "date": "2020-5-23",
-      "confirmed": 3100
+      "confirmed": 1221
     },
     {
       "date": "2020-5-24",
-      "confirmed": 3189
+      "confirmed": 1221
     },
     {
       "date": "2020-5-25",
-      "confirmed": 3260
+      "confirmed": 1231
     },
     {
       "date": "2020-5-26",
-      "confirmed": 3324
+      "confirmed": 1232
     },
     {
       "date": "2020-5-27",
-      "confirmed": 3397
+      "confirmed": 1250
     },
     {
       "date": "2020-5-28",
-      "confirmed": 3486
+      "confirmed": 1270
     },
     {
       "date": "2020-5-29",
-      "confirmed": 3647
+      "confirmed": 1283
     },
     {
       "date": "2020-5-30",
-      "confirmed": 3718
+      "confirmed": 1290
     },
     {
       "date": "2020-5-31",
-      "confirmed": 3776
+      "confirmed": 1288
     },
     {
       "date": "2020-6-1",
-      "confirmed": 3873
+      "confirmed": 1294
     },
     {
       "date": "2020-6-2",
-      "confirmed": 3935
+      "confirmed": 1295
     },
     {
       "date": "2020-6-3",
-      "confirmed": 4023
+      "confirmed": 1303
     },
     {
       "date": "2020-6-4",
-      "confirmed": 4508
+      "confirmed": 1312
     },
     {
       "date": "2020-6-5",
-      "confirmed": 4620
+      "confirmed": 1320
     },
     {
       "date": "2020-6-6",
-      "confirmed": 4915
+      "confirmed": 1350
     },
     {
       "date": "2020-6-7",
-      "confirmed": 4985
+      "confirmed": 1353
     },
     {
       "date": "2020-6-8",
-      "confirmed": 5046
+      "confirmed": 1362
     },
     {
       "date": "2020-6-9",
-      "confirmed": 5185
+      "confirmed": 1375
     },
     {
       "date": "2020-6-10",
-      "confirmed": 5329
+      "confirmed": 1390
     },
     {
       "date": "2020-6-11",
-      "confirmed": 5352
+      "confirmed": 1391
     },
     {
       "date": "2020-6-12",
-      "confirmed": 5536
+      "confirmed": 1443
     },
     {
       "date": "2020-6-13",
-      "confirmed": 5690
+      "confirmed": 1460
     },
     {
       "date": "2020-6-14",
-      "confirmed": 5811
+      "confirmed": 1471
     },
     {
       "date": "2020-6-15",
-      "confirmed": 5890
+      "confirmed": 1477
     },
     {
       "date": "2020-6-16",
-      "confirmed": 5951
+      "confirmed": 1479
     },
     {
       "date": "2020-6-17",
-      "confirmed": 6003
+      "confirmed": 1486
     },
     {
       "date": "2020-6-18",
-      "confirmed": 6111
+      "confirmed": 1496
     },
     {
       "date": "2020-6-19",
-      "confirmed": 6195
+      "confirmed": 1499
     },
     {
       "date": "2020-6-20",
-      "confirmed": 6463
+      "confirmed": 1531
     },
     {
       "date": "2020-6-21",
-      "confirmed": 6525
+      "confirmed": 1533
     },
     {
       "date": "2020-6-22",
-      "confirmed": 6564
+      "confirmed": 1540
     },
     {
       "date": "2020-6-23",
-      "confirmed": 6685
+      "confirmed": 1550
     },
     {
       "date": "2020-6-24",
-      "confirmed": 6820
+      "confirmed": 1577
     },
     {
       "date": "2020-6-25",
-      "confirmed": 6877
+      "confirmed": 1579
     },
     {
       "date": "2020-6-26",
-      "confirmed": 6922
+      "confirmed": 1583
     },
     {
       "date": "2020-6-27",
-      "confirmed": 7066
+      "confirmed": 1602
     },
     {
       "date": "2020-6-28",
-      "confirmed": 7189
+      "confirmed": 1624
     },
     {
       "date": "2020-6-29",
-      "confirmed": 7250
+      "confirmed": 1638
     },
     {
       "date": "2020-6-30",
-      "confirmed": 7465
+      "confirmed": 1693
     },
     {
       "date": "2020-7-1",
-      "confirmed": 7537
+      "confirmed": 1729
     },
     {
       "date": "2020-7-2",
-      "confirmed": 7608
+      "confirmed": 1767
     },
     {
       "date": "2020-7-3",
-      "confirmed": 7683
+      "confirmed": 1791
     },
     {
       "date": "2020-7-4",
-      "confirmed": 7787
+      "confirmed": 1817
     },
     {
       "date": "2020-7-5",
-      "confirmed": 7916
+      "confirmed": 1846
     },
     {
       "date": "2020-7-6",
-      "confirmed": 8585
+      "confirmed": 2071
     },
     {
       "date": "2020-7-7",
-      "confirmed": 8714
+      "confirmed": 2147
     },
     {
       "date": "2020-7-8",
-      "confirmed": 8745
+      "confirmed": 2171
     },
     {
       "date": "2020-7-9",
-      "confirmed": 8862
+      "confirmed": 2235
     },
     {
       "date": "2020-7-10",
-      "confirmed": 9137
+      "confirmed": 2351
     },
     {
       "date": "2020-7-11",
-      "confirmed": 9366
+      "confirmed": 2435
     },
     {
       "date": "2020-7-12",
-      "confirmed": 9654
+      "confirmed": 2583
     },
     {
       "date": "2020-7-13",
-      "confirmed": 10010
+      "confirmed": 2811
     },
     {
       "date": "2020-7-14",
-      "confirmed": 10123
+      "confirmed": 2904
     },
     {
       "date": "2020-7-15",
-      "confirmed": 10379
+      "confirmed": 3043
     },
     {
       "date": "2020-7-16",
-      "confirmed": 10574
+      "confirmed": 3119
     },
     {
       "date": "2020-7-17",
-      "confirmed": 11120
+      "confirmed": 3272
     },
     {
       "date": "2020-7-18",
-      "confirmed": 11453
+      "confirmed": 3461
     },
     {
       "date": "2020-7-19",
-      "confirmed": 12063
+      "confirmed": 3791
     },
     {
       "date": "2020-7-20",
-      "confirmed": 12461
+      "confirmed": 4011
     },
     {
       "date": "2020-7-21",
-      "confirmed": 12940
+      "confirmed": 4255
     },
     {
       "date": "2020-7-22",
-      "confirmed": 13038
+      "confirmed": 4330
     },
     {
       "date": "2020-7-23",
-      "confirmed": 13473
+      "confirmed": 4574
     },
     {
       "date": "2020-7-24",
-      "confirmed": 13967
+      "confirmed": 4794
     },
     {
       "date": "2020-7-25",
-      "confirmed": 14540
+      "confirmed": 5042
     },
     {
       "date": "2020-7-26",
-      "confirmed": 15143
+      "confirmed": 5236
     },
     {
       "date": "2020-7-27",
-      "confirmed": 15431
+      "confirmed": 5416
     },
     {
       "date": "2020-7-28",
-      "confirmed": 15840
+      "confirmed": 5585
     },
     {
       "date": "2020-7-29",
-      "confirmed": 16061
+      "confirmed": 5700
     },
     {
       "date": "2020-7-30",
-      "confirmed": 16572
+      "confirmed": 5920
     },
     {
       "date": "2020-7-31",
-      "confirmed": 16781
+      "confirmed": 5997
     },
     {
       "date": "2020-8-1",
-      "confirmed": 17872
+      "confirmed": 6543
     },
     {
       "date": "2020-8-2",
-      "confirmed": 18411
+      "confirmed": 6835
     },
     {
       "date": "2020-8-3",
-      "confirmed": 18791
+      "confirmed": 7113
     },
     {
       "date": "2020-8-4",
-      "confirmed": 19324
+      "confirmed": 7413
     },
     {
       "date": "2020-8-5",
-      "confirmed": 19651
+      "confirmed": 7684
     },
     {
       "date": "2020-8-6",
-      "confirmed": 19934
+      "confirmed": 7824
     },
     {
       "date": "2020-8-7",
-      "confirmed": 20686
+      "confirmed": 8230
     },
     {
       "date": "2020-8-8",
-      "confirmed": 21424
+      "confirmed": 8573
     },
     {
       "date": "2020-8-9",
-      "confirmed": 22121
+      "confirmed": 8934
     },
     {
       "date": "2020-8-10",
-      "confirmed": 22821
+      "confirmed": 9319
     },
     {
       "date": "2020-8-11",
-      "confirmed": 23403
+      "confirmed": 9605
     },
     {
       "date": "2020-8-12",
-      "confirmed": 24074
+      "confirmed": 10169
     },
     {
       "date": "2020-8-13",
-      "confirmed": 24446
+      "confirmed": 10279
     },
     {
       "date": "2020-8-14",
-      "confirmed": 25128
+      "confirmed": 10730
     },
     {
       "date": "2020-8-15",
-      "confirmed": 25695
+      "confirmed": 11069
     },
     {
       "date": "2020-8-16",
-      "confirmed": 26006
+      "confirmed": 11251
     },
     {
       "date": "2020-8-17",
-      "confirmed": 26760
+      "confirmed": 11723
     },
     {
       "date": "2020-8-18",
-      "confirmed": 27713
+      "confirmed": 12371
     },
     {
       "date": "2020-8-19",
-      "confirmed": 27934
+      "confirmed": 12452
     },
     {
       "date": "2020-8-20",
-      "confirmed": 28143
+      "confirmed": 12576
     },
     {
       "date": "2020-8-21",
-      "confirmed": 28846
+      "confirmed": 13014
     },
     {
       "date": "2020-8-22",
-      "confirmed": 29577
+      "confirmed": 13282
     },
     {
       "date": "2020-8-23",
-      "confirmed": 29896
+      "confirmed": 13477
     },
     {
       "date": "2020-8-24",
-      "confirmed": 30618
+      "confirmed": 13922
     },
     {
       "date": "2020-8-25",
-      "confirmed": 30720
+      "confirmed": 13992
     },
     {
       "date": "2020-8-26",
-      "confirmed": 30744
+      "confirmed": 14010
     },
     {
       "date": "2020-8-27",
-      "confirmed": 31383
+      "confirmed": 14469
     },
     {
       "date": "2020-8-28",
-      "confirmed": 31988
+      "confirmed": 14726
     },
     {
       "date": "2020-8-29",
-      "confirmed": 32550
+      "confirmed": 14986
     },
     {
       "date": "2020-8-30",
-      "confirmed": 32848
+      "confirmed": 15229
     },
     {
       "date": "2020-8-31",
-      "confirmed": 33199
+      "confirmed": 15476
     },
     {
       "date": "2020-9-1",
-      "confirmed": 33421
+      "confirmed": 15584
     },
     {
       "date": "2020-9-2",
-      "confirmed": 34003
+      "confirmed": 15942
     },
     {
       "date": "2020-9-3",
-      "confirmed": 34198
+      "confirmed": 16069
     },
     {
       "date": "2020-9-4",
-      "confirmed": 34241
+      "confirmed": 16101
     },
     {
       "date": "2020-9-5",
-      "confirmed": 34492
+      "confirmed": 16243
     },
     {
       "date": "2020-9-6",
-      "confirmed": 34533
+      "confirmed": 16269
     },
     {
       "date": "2020-9-7",
-      "confirmed": 35375
+      "confirmed": 16692
     },
     {
       "date": "2020-9-8",
-      "confirmed": 35504
+      "confirmed": 16788
     },
     {
       "date": "2020-9-9",
-      "confirmed": 35507
+      "confirmed": 16789
     },
     {
       "date": "2020-9-10",
-      "confirmed": 36279
+      "confirmed": 17248
     },
     {
       "date": "2020-9-11",
-      "confirmed": 36581
+      "confirmed": 17357
     },
     {
       "date": "2020-9-12",
-      "confirmed": 37092
+      "confirmed": 17598
     },
     {
       "date": "2020-9-13",
-      "confirmed": 37380
+      "confirmed": 17769
     },
     {
       "date": "2020-9-14",
-      "confirmed": 37750
+      "confirmed": 17977
     },
     {
       "date": "2020-9-15",
-      "confirmed": 38172
+      "confirmed": 18206
     },
     {
       "date": "2020-9-16",
-      "confirmed": 38284
+      "confirmed": 18252
     },
     {
       "date": "2020-9-17",
-      "confirmed": 38867
+      "confirmed": 18634
     },
     {
       "date": "2020-9-18",
-      "confirmed": 39684
+      "confirmed": 19113
     },
     {
       "date": "2020-9-19",
-      "confirmed": 40993
+      "confirmed": 19807
     },
     {
       "date": "2020-9-20",
-      "confirmed": 41838
+      "confirmed": 20069
     },
     {
       "date": "2020-9-21",
-      "confirmed": 42476
+      "confirmed": 20311
     },
     {
       "date": "2020-9-22",
-      "confirmed": 42596
+      "confirmed": 20399
     },
     {
       "date": "2020-9-23",
-      "confirmed": 42660
+      "confirmed": 20439
     },
     {
       "date": "2020-9-24",
-      "confirmed": 43842
+      "confirmed": 21156
     },
     {
       "date": "2020-9-25",
-      "confirmed": 44905
+      "confirmed": 21868
     },
     {
       "date": "2020-9-26",
-      "confirmed": 45413
+      "confirmed": 22164
     },
     {
       "date": "2020-9-27",
-      "confirmed": 46304
+      "confirmed": 22697
     },
     {
       "date": "2020-9-28",
-      "confirmed": 47422
+      "confirmed": 23357
     },
     {
       "date": "2020-9-29",
-      "confirmed": 48467
+      "confirmed": 23801
     },
     {
       "date": "2020-9-30",
-      "confirmed": 48755
+      "confirmed": 24000
     },
     {
       "date": "2020-10-1",
-      "confirmed": 49067
+      "confirmed": 24176
     },
     {
       "date": "2020-10-2",
-      "confirmed": 49747
+      "confirmed": 24505
     },
     {
       "date": "2020-10-3",
-      "confirmed": 50375
+      "confirmed": 24804
     },
     {
       "date": "2020-10-4",
-      "confirmed": 50675
+      "confirmed": 25034
     },
     {
       "date": "2020-10-5",
-      "confirmed": 51305
+      "confirmed": 25397
     },
     {
       "date": "2020-10-6",
-      "confirmed": 51737
+      "confirmed": 25635
     },
     {
       "date": "2020-10-7",
-      "confirmed": 51768
+      "confirmed": 25658
     },
     {
       "date": "2020-10-8",
-      "confirmed": 52294
+      "confirmed": 26010
     },
     {
       "date": "2020-10-9",
-      "confirmed": 52892
+      "confirmed": 26326
     },
     {
       "date": "2020-10-10",
-      "confirmed": 53364
+      "confirmed": 26558
     },
     {
       "date": "2020-10-11",
-      "confirmed": 53671
+      "confirmed": 26776
     },
     {
       "date": "2020-10-12",
-      "confirmed": 54234
+      "confirmed": 27004
     },
     {
       "date": "2020-10-13",
-      "confirmed": 54540
+      "confirmed": 27139
     },
     {
       "date": "2020-10-14",
-      "confirmed": 55516
+      "confirmed": 27629
     },
     {
       "date": "2020-10-15",
-      "confirmed": 56085
+      "confirmed": 27947
     },
     {
       "date": "2020-10-16",
-      "confirmed": 56412
+      "confirmed": 28174
     },
     {
       "date": "2020-10-17",
-      "confirmed": 56650
+      "confirmed": 28293
     },
     {
       "date": "2020-10-18",
-      "confirmed": 57293
+      "confirmed": 28711
     },
     {
       "date": "2020-10-19",
-      "confirmed": 57950
+      "confirmed": 29138
     },
     {
       "date": "2020-10-20",
-      "confirmed": 58643
+      "confirmed": 29585
     },
     {
       "date": "2020-10-21",
-      "confirmed": 58830
+      "confirmed": 29717
     },
     {
       "date": "2020-10-22",
-      "confirmed": 59037
+      "confirmed": 29804
     },
     {
       "date": "2020-10-23",
-      "confirmed": 60984
+      "confirmed": 30956
     },
     {
       "date": "2020-10-24",
-      "confirmed": 61280
+      "confirmed": 31072
     },
     {
       "date": "2020-10-25",
-      "confirmed": 62503
+      "confirmed": 31737
     },
     {
       "date": "2020-10-26",
-      "confirmed": 63135
+      "confirmed": 32198
     },
     {
       "date": "2020-10-27",
-      "confirmed": 63497
+      "confirmed": 32461
     },
     {
       "date": "2020-10-28",
-      "confirmed": 63587
+      "confirmed": 32527
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 33279
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 33853
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 34138
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 34541
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 35405
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 35750
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 35807
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 36101
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 36904
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 37490
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 38100
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 38581
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 38856
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 39120
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 40452
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 41119
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 41772
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 42479
     }
   ],
   "Rhode Island": [
@@ -51793,6 +55033,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 31944
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 32312
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 32874
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 32874
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 32874
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 34120
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 34543
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 35122
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 35750
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 36380
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 36380
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 36380
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 38009
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 38798
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 39776
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 40764
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 41529
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 41529
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 41529
     }
   ],
   "South Carolina": [
@@ -52919,6 +56231,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 173491
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 174591
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 175594
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 176612
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 178023
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 178917
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 179952
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 180870
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 181639
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 182872
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 184742
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 185688
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 186391
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 187738
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 188995
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 190490
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 192101
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 194014
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 195507
     }
   ],
   "South Dakota": [
@@ -54045,6 +57429,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 42000
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 43000
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 44559
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 45992
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 47324
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 47850
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 48854
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 49791
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 51151
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 52639
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 53976
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 55404
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 56311
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 57334
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 58696
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 60716
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 62327
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 64182
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 65381
     }
   ],
   "Tennessee": [
@@ -55171,6 +58627,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 254220
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 256880
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 259488
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 260672
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 261426
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 264587
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 266357
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 269802
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 271771
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 273144
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 278215
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 281851
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 287770
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 289749
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 293381
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 296725
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 300458
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 305120
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 310937
     }
   ],
   "Texas": [
@@ -56297,6 +59825,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 911835
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 918721
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 924447
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 932261
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 936816
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 942303
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 950302
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 959811
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 969490
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 977222
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 985061
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 990930
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 998027
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 1010364
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 1022336
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 1031363
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 1043116
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 1052229
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 1059753
     }
   ],
   "Utah": [
@@ -57423,6 +61023,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 108803
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 110640
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 112932
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 114656
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 116510
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 117706
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 119375
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 121485
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 124292
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 127279
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 130235
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 132621
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 134868
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 137385
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 139720
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 143639
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 145789
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 151141
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 153808
     }
   ],
   "Vermont": [
@@ -58549,6 +62221,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 2120
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 2141
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 2155
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 2179
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 2196
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 2219
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 2237
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 2267
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 2303
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 2326
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 2347
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 2392
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 2415
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 2462
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 2535
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 2651
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 2743
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 2843
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 2889
     }
   ],
   "Virgin Islands": [
@@ -59675,6 +63419,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 1353
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 1353
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 1362
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 1376
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 1376
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 1376
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 1385
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 1388
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 1388
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 1390
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 1390
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 1405
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 1405
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 1413
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 1413
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 1413
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 1426
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 1434
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 1434
     }
   ],
   "Virginia": [
@@ -60532,7 +64348,7 @@
     },
     {
       "date": "2020-8-22",
-      "confirmed": 112068
+      "confirmed": 112072
     },
     {
       "date": "2020-8-23",
@@ -60556,23 +64372,23 @@
     },
     {
       "date": "2020-8-28",
-      "confirmed": 117578
+      "confirmed": 117592
     },
     {
       "date": "2020-8-29",
-      "confirmed": 118794
+      "confirmed": 118809
     },
     {
       "date": "2020-8-30",
-      "confirmed": 119729
+      "confirmed": 119747
     },
     {
       "date": "2020-8-31",
-      "confirmed": 120575
+      "confirmed": 120594
     },
     {
       "date": "2020-9-1",
-      "confirmed": 121593
+      "confirmed": 121615
     },
     {
       "date": "2020-9-2",
@@ -60588,31 +64404,31 @@
     },
     {
       "date": "2020-9-5",
-      "confirmed": 125681
+      "confirmed": 125727
     },
     {
       "date": "2020-9-6",
-      "confirmed": 126877
+      "confirmed": 126926
     },
     {
       "date": "2020-9-7",
-      "confirmed": 127516
+      "confirmed": 127571
     },
     {
       "date": "2020-9-8",
-      "confirmed": 128350
+      "confirmed": 128407
     },
     {
       "date": "2020-9-9",
-      "confirmed": 129229
+      "confirmed": 129289
     },
     {
       "date": "2020-9-10",
-      "confirmed": 130460
+      "confirmed": 130525
     },
     {
       "date": "2020-9-11",
-      "confirmed": 131571
+      "confirmed": 131640
     },
     {
       "date": "2020-9-12",
@@ -60620,187 +64436,259 @@
     },
     {
       "date": "2020-9-13",
-      "confirmed": 133742
+      "confirmed": 133814
     },
     {
       "date": "2020-9-14",
-      "confirmed": 134493
+      "confirmed": 134571
     },
     {
       "date": "2020-9-15",
-      "confirmed": 135428
+      "confirmed": 135514
     },
     {
       "date": "2020-9-16",
-      "confirmed": 136269
+      "confirmed": 136359
     },
     {
       "date": "2020-9-17",
-      "confirmed": 137367
+      "confirmed": 137460
     },
     {
       "date": "2020-9-18",
-      "confirmed": 138605
+      "confirmed": 138702
     },
     {
       "date": "2020-9-19",
-      "confirmed": 139546
+      "confirmed": 139655
     },
     {
       "date": "2020-9-20",
-      "confirmed": 140395
+      "confirmed": 140511
     },
     {
       "date": "2020-9-21",
-      "confirmed": 141022
+      "confirmed": 141138
     },
     {
       "date": "2020-9-22",
-      "confirmed": 141884
+      "confirmed": 142010
     },
     {
       "date": "2020-9-23",
-      "confirmed": 142459
+      "confirmed": 142590
     },
     {
       "date": "2020-9-24",
-      "confirmed": 143357
+      "confirmed": 143492
     },
     {
       "date": "2020-9-25",
-      "confirmed": 144294
+      "confirmed": 144433
     },
     {
       "date": "2020-9-26",
-      "confirmed": 145267
+      "confirmed": 145408
     },
     {
       "date": "2020-9-27",
-      "confirmed": 146001
+      "confirmed": 146144
     },
     {
       "date": "2020-9-28",
-      "confirmed": 146444
+      "confirmed": 146593
     },
     {
       "date": "2020-9-29",
-      "confirmed": 147345
+      "confirmed": 147516
     },
     {
       "date": "2020-9-30",
-      "confirmed": 148092
+      "confirmed": 148271
     },
     {
       "date": "2020-10-1",
-      "confirmed": 148536
+      "confirmed": 148721
     },
     {
       "date": "2020-10-2",
-      "confirmed": 149490
+      "confirmed": 149687
     },
     {
       "date": "2020-10-3",
-      "confirmed": 150583
+      "confirmed": 150803
     },
     {
       "date": "2020-10-4",
-      "confirmed": 151642
+      "confirmed": 151870
     },
     {
       "date": "2020-10-5",
-      "confirmed": 152322
+      "confirmed": 152557
     },
     {
       "date": "2020-10-6",
-      "confirmed": 152945
+      "confirmed": 153182
     },
     {
       "date": "2020-10-7",
-      "confirmed": 153451
+      "confirmed": 153691
     },
     {
       "date": "2020-10-8",
-      "confirmed": 155270
+      "confirmed": 155535
     },
     {
       "date": "2020-10-9",
-      "confirmed": 156372
+      "confirmed": 156649
     },
     {
       "date": "2020-10-10",
-      "confirmed": 157609
+      "confirmed": 157905
     },
     {
       "date": "2020-10-11",
-      "confirmed": 158409
+      "confirmed": 158716
     },
     {
       "date": "2020-10-12",
-      "confirmed": 159248
+      "confirmed": 159570
     },
     {
       "date": "2020-10-13",
-      "confirmed": 160447
+      "confirmed": 160805
     },
     {
       "date": "2020-10-14",
-      "confirmed": 161236
+      "confirmed": 161610
     },
     {
       "date": "2020-10-15",
-      "confirmed": 162538
+      "confirmed": 162941
     },
     {
       "date": "2020-10-16",
-      "confirmed": 163710
+      "confirmed": 164124
     },
     {
       "date": "2020-10-17",
-      "confirmed": 164795
+      "confirmed": 165238
     },
     {
       "date": "2020-10-18",
-      "confirmed": 165676
+      "confirmed": 166138
     },
     {
       "date": "2020-10-19",
-      "confirmed": 166360
+      "confirmed": 166828
     },
     {
       "date": "2020-10-20",
-      "confirmed": 167270
+      "confirmed": 167754
     },
     {
       "date": "2020-10-21",
-      "confirmed": 168260
+      "confirmed": 168772
     },
     {
       "date": "2020-10-22",
-      "confirmed": 169566
+      "confirmed": 170104
     },
     {
       "date": "2020-10-23",
-      "confirmed": 170730
+      "confirmed": 171284
     },
     {
       "date": "2020-10-24",
-      "confirmed": 171791
+      "confirmed": 172372
     },
     {
       "date": "2020-10-25",
-      "confirmed": 172774
+      "confirmed": 173371
     },
     {
       "date": "2020-10-26",
-      "confirmed": 173663
+      "confirmed": 174275
     },
     {
       "date": "2020-10-27",
-      "confirmed": 174786
+      "confirmed": 175409
     },
     {
       "date": "2020-10-28",
       "confirmed": 176754
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 178183
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 179639
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 181190
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 182392
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 183418
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 184679
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 185836
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 187202
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 188770
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 190873
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 192175
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 193477
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 194912
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 196506
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 198027
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 199262
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 200799
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 201960
     }
   ],
   "Washington": [
@@ -61927,6 +65815,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 104743
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 105557
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 106573
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 107501
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 108315
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 109354
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 110011
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 111480
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 112550
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 114241
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 116011
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 117331
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 118570
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 120011
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 120011
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 123356
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 125498
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 127731
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 130040
     }
   ],
   "West Virginia": [
@@ -63053,6 +67013,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 23067
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 23466
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 23992
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 24460
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 24883
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 25238
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 25596
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 25988
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 26547
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 27087
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 27609
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 28404
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 28805
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 29316
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 30201
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 30897
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 31639
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 32792
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 33659
     }
   ],
   "Wisconsin": [
@@ -64142,43 +68174,115 @@
     },
     {
       "date": "2020-10-19",
-      "confirmed": 173891
+      "confirmed": 183142
     },
     {
       "date": "2020-10-20",
-      "confirmed": 178482
+      "confirmed": 187828
     },
     {
       "date": "2020-10-21",
-      "confirmed": 182687
+      "confirmed": 192191
     },
     {
       "date": "2020-10-22",
-      "confirmed": 186100
+      "confirmed": 195823
     },
     {
       "date": "2020-10-23",
-      "confirmed": 190478
+      "confirmed": 200466
     },
     {
       "date": "2020-10-24",
-      "confirmed": 194540
+      "confirmed": 205139
     },
     {
       "date": "2020-10-25",
-      "confirmed": 198166
+      "confirmed": 208917
     },
     {
       "date": "2020-10-26",
-      "confirmed": 201049
+      "confirmed": 211928
     },
     {
       "date": "2020-10-27",
-      "confirmed": 206311
+      "confirmed": 217429
     },
     {
       "date": "2020-10-28",
-      "confirmed": 210126
+      "confirmed": 221559
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 226704
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 232061
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 237869
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 241422
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 244927
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 251031
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 257287
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 263571
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 269982
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 277503
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 281910
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 286380
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 293812
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 301349
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 309572
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 318023
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 323604
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 329924
     }
   ],
   "Wyoming": [
@@ -65305,6 +69409,78 @@
     {
       "date": "2020-10-28",
       "confirmed": 12146
+    },
+    {
+      "date": "2020-10-29",
+      "confirmed": 12507
+    },
+    {
+      "date": "2020-10-30",
+      "confirmed": 13028
+    },
+    {
+      "date": "2020-10-31",
+      "confirmed": 13298
+    },
+    {
+      "date": "2020-11-1",
+      "confirmed": 13723
+    },
+    {
+      "date": "2020-11-2",
+      "confirmed": 14167
+    },
+    {
+      "date": "2020-11-3",
+      "confirmed": 14621
+    },
+    {
+      "date": "2020-11-4",
+      "confirmed": 15044
+    },
+    {
+      "date": "2020-11-5",
+      "confirmed": 15409
+    },
+    {
+      "date": "2020-11-6",
+      "confirmed": 16405
+    },
+    {
+      "date": "2020-11-7",
+      "confirmed": 16597
+    },
+    {
+      "date": "2020-11-8",
+      "confirmed": 17310
+    },
+    {
+      "date": "2020-11-9",
+      "confirmed": 18010
+    },
+    {
+      "date": "2020-11-10",
+      "confirmed": 19242
+    },
+    {
+      "date": "2020-11-11",
+      "confirmed": 19374
+    },
+    {
+      "date": "2020-11-12",
+      "confirmed": 20479
+    },
+    {
+      "date": "2020-11-13",
+      "confirmed": 21341
+    },
+    {
+      "date": "2020-11-14",
+      "confirmed": 21881
+    },
+    {
+      "date": "2020-11-15",
+      "confirmed": 22494
     }
   ]
 }
